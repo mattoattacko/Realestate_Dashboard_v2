@@ -1,5 +1,7 @@
 ### Real Estate Dashbaord 
 
+![Dashboard](https://i.imgur.com/MqWDJXl.png)
+
 MERN DASHBOARD PROJECT
 Cloudinary is for serving images
 dotenv is for safely storing environment variables
